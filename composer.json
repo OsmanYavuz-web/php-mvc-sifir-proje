@@ -1,0 +1,15 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Adamlar\\": "src/libraries"
+    },
+    "files": [
+      "src/libraries/functions.php",
+      "src/libraries/helpers/BasicDb.php",
+      "src/settings.php",
+      "src/database.php",
+      "src/model.php",
+      "src/controller.php"
+    ]
+  }
+}

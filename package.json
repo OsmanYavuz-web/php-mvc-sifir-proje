@@ -1,0 +1,30 @@
+{
+  "name": "gulp-front-end-project",
+  "version": "1.0.0",
+  "description": "Front-End Projeler İçin Hazır Gulp.js",
+  "author": "Osman Yavuz",
+  "license": "ISC",
+  "main": "../../Users/omnyvz/Desktop/gulp-front-end-project-master/gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gulp-fs-cache": "^0.1.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "",
+    "del": "",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "",
+    "gulp-concat": "",
+    "gulp-csso": "",
+    "gulp-htmlmin": "",
+    "gulp-imagemin": "",
+    "gulp-sass": "",
+    "gulp-uglify": "",
+    "gulp-fs-cache": "",
+    "gulp4-run-sequence": "^1.0.0",
+    "run-sequence": ""
+  }
+}
